@@ -1,0 +1,17 @@
+﻿  enemy.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(302): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(303): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(326): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(327): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(369): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(370): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(397): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(433): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(434): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(465): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(506): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(592): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\12_c_astar\enemy.cpp(605): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  GameWindow.vcxproj -> C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\12_C_AStar\Debug\GameWindow.exe

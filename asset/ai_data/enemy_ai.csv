@@ -1,0 +1,9 @@
+ ,Root,0,Priority,NULL,NULL
+Root,Wait,4,NON,Wait,Wait
+Root,Chase,2,Priority,Chase,NULL
+Root,Attack,1,Priority,Attack,NULL
+Root,Dive,3,NON,Dive,Dive
+Chase,WalkChase,2,NON,Walk,WalkChase
+Chase,Pathfinder,1,NON,NULL,Pathfinder
+Attack,ShotAttack,2,NON,Shot,Shot
+Attack,BombAttack,1,NON,NULL,Bomb

@@ -1,0 +1,263 @@
+﻿C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\envMappingPS.hlsl(40,2-75): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\envMappingPS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\envMappingPS2.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\envMappingVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\normalMappingPS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\normalMappingVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingBlinnPS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingBlinnVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingPS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingRimPS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingRimVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\pixelLightingVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\unlitColorPS.cso
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\unlitColorVS.hlsl(10,35-37): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\unlitColorVS.hlsl(10,35-37): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\unlitColorVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\unlitTexturePS.cso
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\unlitTextureVS.hlsl(5,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\unlitTextureVS.hlsl(5,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\vertexLightingPS.cso
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\vertexLightingVS.hlsl(5,34-36): warning X3578: 'main': Top-level output parameter 'Out' not completely initialized
+C:\Users\toiwd\OneDrive\�h�L�������`E01_�I�����C������\AT13B\GM31\14_Master\vertexLightingVS.hlsl(5,34-36): warning X3578: Output value 'Out' is not completely initialized
+  
+  compilation object save succeeded; see C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\vertexLightingVS.cso
+  animationModel.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\animationmodel.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\defs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix3x3.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix3x3.inl : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix4x4.inl : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  aStar.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(142): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(143): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(151): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(152): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(226): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(227): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(230): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(231): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\astar.cpp(278): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  attackJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\attackjudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  audio.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\audio.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  behaviorData.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\behaviordata.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.h(44): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  behaviorTree.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\behaviortree.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.h(44): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  block.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\block.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  bomb.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\bomb.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  bombAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\bombaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  pathfinderAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\pathfinderaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemyBomb.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemybomb.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemyBombSplash.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemybombsplash.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemyHpBar.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemyhpbar.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemySecondBullet.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemysecondbullet.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  hpBar.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\hpbar.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  inputBehavior.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\inputbehavior.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  resultLogo3D.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\resultlogo3d.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\resultlogo3d.cpp(55): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  shotJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\shotjudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  bombSplash.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\bombsplash.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  bullet.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\bullet.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  コンパイル中...
+  camera.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\camera.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  titleCamera.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\titlecamera.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  titleLogo3D.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\titlelogo3d.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\titlelogo3d.cpp(55): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  walkJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\walkjudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  walkChaseAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\walkchaseaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  chaseJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\chasejudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  crosshair.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\crosshair.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  diveAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\diveaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  diveJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\divejudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemy.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(302): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(303): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(326): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(327): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(369): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(370): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(397): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(433): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(434): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(465): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(506): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(592): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemy.cpp(605): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  enemyBullet.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemybullet.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  enemyInk.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\enemyink.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  explosion.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\explosion.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  fade.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\fade.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  field.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\field.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  game.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\game.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  ink.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\ink.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  inkinTank.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\inkintank.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  input.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\input.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  main.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  コンパイル中...
+  manager.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\manager.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  meshField.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\meshfield.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\meshfield.cpp(200): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\meshfield.cpp(201): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  model.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\model.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\model.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  mouse.cpp
+  nodeBase.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.h(44): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.cpp(52): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\nodebase.cpp(170): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  option.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\option.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  optionBar.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\optionbar.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\optionbar.cpp(141): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  optionFrame.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\optionframe.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  optionUI.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\optionui.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  shotAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\shotaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  player.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\player.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\defs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix3x3.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix3x3.inl : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\assimp\matrix4x4.inl : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\player.cpp(128): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  polygon2D.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\polygon2d.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  renderer.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\renderer.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  result.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\result.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  resultLogo.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\resultlogo.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  secondBullet.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\secondbullet.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  sky.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\sky.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  tank.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\tank.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  title.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\title.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  titleLogo.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\titlelogo.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  コンパイル中...
+  waitAction.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\waitaction.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  waitJudgment.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\waitjudgment.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  wall.cpp
+c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\main.h(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': マクロが再定義されました。
+  c:\users\toiwd\onedrive\ドキュメント\01_オンライン授業\at13b\gm31\14_master\wall.cpp: note: '_CRT_SECURE_NO_WARNINGS' の以前の定義を確認してください
+  コード生成しています。
+  All 2170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  GameWindow.vcxproj -> C:\Users\toiwd\OneDrive\ドキュメント\01_オンライン授業\AT13B\GM31\14_Master\Release\GameWindow.exe
